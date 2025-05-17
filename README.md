@@ -1,2 +1,2 @@
-# jay-portfolio
+# Jay-Portfolio
  “My personal portfolio”
